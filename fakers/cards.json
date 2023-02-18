@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "img": "/assets/Customer.png",
+    "title": "Customer Engagement",
+    "desc": "Get your own mobile app for industry specific",
+    "price": 130,
+    "bgcolor": "#0A488F",
+    "qty": 1,
+    "status": "yellow"
+},
+{
+    "id":2,
+    "img": "/assets/Actionable.png",
+    "title": "Actionable Insighets",
+    "desc": "Get your own mobile app for industry specific",
+    "price": 100,
+    "bgcolor": "#579064",
+    "qty": 1,
+    "status": "yellow"
+},
+{
+    "id":3,
+    "img": "/assets/Employees.png",
+    "title": "Employees Productivity",
+    "desc": "KPI Builder , Work Conf, Create Oracle Requests",
+    "price": 50,
+    "bgcolor": "#950000",
+    "qty": 1,
+    "status": "green"
+},
+{
+    "id":4,
+    "img": "/assets/Operations.png",
+    "title": "Operations Excellence",
+    "desc": "Get your own mobile app for industry specific",
+    "price": 100,
+    "bgcolor": "#8F6C0A",
+    "qty": 1,
+    "status": "red"
+}
+  ]

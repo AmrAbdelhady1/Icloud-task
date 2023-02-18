@@ -1,0 +1,8 @@
+export { default as Layout } from './Layout'
+export { default as Navbar } from './navbar'
+export { default as Sidebar } from './sidebar'
+export { default as Foot } from './footer'
+export { default as Hero } from './hero'
+export { default as Cardcom } from './cardcom'
+export { default as Cart } from './cart'
+export { default as Kitchen } from './kitchen'
